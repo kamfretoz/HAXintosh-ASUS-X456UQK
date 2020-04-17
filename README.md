@@ -29,8 +29,8 @@ A collection of Kext and config.plist for my ASUS Laptop
    2:           Linux Filesystem                         129.2 GB   disk0s2
    3:                  Apple_HFS HAXintosh               118.6 GB   disk0s3
    4:                 Apple_Boot Recovery HD             650.0 MB   disk0s4
-   5:       Microsoft Basic Data                         36.5 GB    disk0s5
-   6:       Microsoft Basic Data                         17.2 GB    disk0s6
+   5:       Microsoft Basic Data Haiku                   36.5 GB    disk0s5
+   6:       Microsoft Basic Data PrimeOS                 17.2 GB    disk0s6
    7:       Microsoft Basic Data DATA                    697.9 GB   disk0s7
 
 /dev/disk1 (internal, physical):
