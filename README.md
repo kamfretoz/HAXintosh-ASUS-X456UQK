@@ -1,9 +1,9 @@
 # HAXintosh for ASUS X456UQK
 A collection of Kext and config.plist for my ASUS Laptop
 
-![Alt text](/SCREENSHOTS/rEFInd.jpg?raw=true "rEFInd Main Screen")
+![Alt text](/SCREENSHOTS/rEFInd.png?raw=true "rEFInd Main Screen")
 
-- Laptop Model: ASUS X456UQK
+- Laptop Model: ASUS VivoBook X456UQK
 - Installer: **Olarila Vanilla Installer**
 - macOS Version: Mojave (10.14.6)
 - Clover Version: r5112
